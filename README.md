@@ -9,8 +9,11 @@ A simple Node.js app with user registration, login, and JWT authentication using
 - EJS Templating
 - Environment Variables Support
 
-- ## Installation
-  
-- git clone <repo-url>
-- cd <project-folder>
-- npm install
+---
+
+## ▶️ Installation
+
+```bash id="auth_install"
+git clone <repo-url>
+cd <project-folder>
+npm install
