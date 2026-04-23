@@ -11,6 +11,6 @@ A simple Node.js app with user registration, login, and JWT authentication using
 
 - ## Installation
   
-git clone <repo-url>
-cd <project-folder>
-npm install
+- git clone <repo-url>
+- cd <project-folder>
+- npm install
